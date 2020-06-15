@@ -1,5 +1,6 @@
 # Shopping-Desk-Inventory-System
-## Desktop based application using Swing and AWT in Core Java.
+## Project Description
+It's a Desktop based application using Swing and AWT in Java. Its having several modules (Login, Sales details, Sales Return Details, Purchase, Purchase Return Details, Items, Employee Details, Attendance Details, Salary Details, Supplier Details).
 ### Sample Images are here...
 
 ![alt text](https://github.com/Sachin-jha/Shopping-Desk-Inventory-System/blob/master/image/main.png?raw=true)
